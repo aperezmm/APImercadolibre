@@ -1,0 +1,13 @@
+html{
+    background: yellow;
+}
+
+header {
+    height: 30px;
+    background-color: yellow;
+}
+
+.container{
+    height: 30px;
+    background-color: yellow;
+}
